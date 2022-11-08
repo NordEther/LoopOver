@@ -1,4 +1,5 @@
 -- LoopOver
+-- https://github.com/NordEther/LoopOver
 
 module Main (main) where
 
